@@ -45,7 +45,7 @@ Abraham.
 
 10
 00:00:50,968 --> 00:00:53,096
-上帝同我說話了
+上帝對我說話了
 God has spoken to me.
 
 11
@@ -130,7 +130,7 @@ You will name him Isaac.
 
 27
 00:02:03,540 --> 00:02:05,463
-上帝想要一個祭品
+上帝要你去獻祭
 God wants a sacrifice.
 
 28
@@ -215,7 +215,7 @@ but I will be Pharaoh.
 
 44
 00:03:44,266 --> 00:03:47,110
-我會是埃及的上帝
+我會是埃及的神
 I will be god!
 
 45
@@ -240,7 +240,7 @@ Ahh!
 
 49
 00:04:15,297 --> 00:04:18,301
-他得明白自己的身份   是你先挑起來的
+他得明白自己的身份   是你先開始的
 - He needs to learn his place. - You were the one that started...
 
 50
@@ -355,7 +355,7 @@ Our slaves.
 
 72
 00:06:14,206 --> 00:06:16,460
-那些以色列
+那些以色列人
 The Israelites.
 
 73
@@ -390,7 +390,7 @@ They worship the God of Abraham.
 
 79
 00:06:47,490 --> 00:06:49,709
-而他拋棄了他們
+而祂拋棄了他們
 And he has deserted them.
 
 80
@@ -410,7 +410,7 @@ No, please! Please, I beg of you!
 
 83
 00:07:10,889 --> 00:07:13,517
-跳
+狗奴才
 Dog!
 
 84
@@ -435,12 +435,12 @@ Shall we hunt him down? No.
 
 88
 00:08:10,573 --> 00:08:13,417
-讓他走   他已經無法造成威脅了
+讓他走   他已經不會造成威脅了
 Let him go. He's no threat now.
 
 89
 00:08:15,078 --> 00:08:18,503
-新生活歡迎你  摩西
+歡迎進入你的新生活  摩西
 Welcome to your new life, Moses!
 
 90
@@ -475,12 +475,12 @@ You should never have let' her keep him.
 
 96
 00:09:15,096 --> 00:09:17,690
-他拋棄了他們
+祂拋棄了他們
 And he has deserted them.
 
 97
 00:09:17,766 --> 00:09:19,313
-我會成為法老的
+我會成為法老
 I will be Pharaoh!
 
 98
@@ -904,7 +904,7 @@ Let my people go.
 
 182
 00:18:02,873 --> 00:18:05,296
-你一直是名斗士  摩西
+你一直是名鬥士  摩西
 You always were a fighter, Moses.
 
 183
@@ -1169,7 +1169,7 @@ Give up, Moses, before it's too late.
 
 235
 00:23:05,384 --> 00:23:10,140
-災難不會停止的   除非法老王就范
+災難不會停止的   除非法老王就範
 God will keep on doing this until Pharaoh breaks.
 
 236
@@ -1209,7 +1209,7 @@ Why would he punish us?
 
 243
 00:23:34,496 --> 00:23:36,419
-死亡是沖著所有人來的
+死亡是衝著所有人來的
 Death is coming for us all.
 
 244
@@ -1594,7 +1594,7 @@ Lord, I cannot believe this is the end you planned for us.
 
 320
 00:32:55,974 --> 00:32:59,854
-我們看著你給我們的敵人帶去災難
+我們看著你降災給我們的仇敵
 We have watched you bring terror on our enemies.
 
 321
@@ -1604,7 +1604,7 @@ There!
 
 322
 00:33:05,525 --> 00:33:08,574
-將死神隔絕於我們的門外
+將死亡隔絕在我們的門外
 You kept death from our door.
 
 323
@@ -1684,7 +1684,7 @@ Hurry!
 
 338
 00:35:18,450 --> 00:35:22,204
-別怕  堅定信念
+別怕  要有信心
 Don't be afraid! Have faith!
 
 339
@@ -1789,7 +1789,7 @@ Come on!
 
 359
 00:37:18,570 --> 00:37:20,117
-加油   老伙
+加油   老爸
 Come on, old man!
 
 360
@@ -1814,12 +1814,12 @@ There! Up there!
 
 364
 00:38:12,499 --> 00:38:14,251
-我們已經得到了他們
+我們已經要抓到他們了
 We've got them!
 
 365
 00:38:16,377 --> 00:38:19,427
-法老  你不是上帝
+法老  你不是神
 You are not a god, Pharaoh.
 
 366
@@ -1859,12 +1859,12 @@ Freedom!
 
 373
 00:40:02,400 --> 00:40:04,619
-我的同胞
+朋友們
 My friends!
 
 374
 00:40:08,239 --> 00:40:10,867
-我的子民
+我的…子民
 MY... - people.
 
 375
@@ -1884,7 +1884,7 @@ You have come a long way, I know.
 
 378
 00:40:30,219 --> 00:40:32,688
-但我們的征途才剛剛開始
+但我們的旅途才剛剛開始
 But our journey is just beginning.
 
 379
@@ -1964,17 +1964,17 @@ You are our people's future, Joshua.
 
 394
 00:43:16,886 --> 00:43:21,767
-你必須攻下那塊本屬於亞伯拉罕的應許之地
+你必須延續上帝對亞伯拉罕所立
 You must take the land promised to Abraham...
 
 395
 00:43:21,849 --> 00:43:24,227
-征服他那多如繁星的
+和他如繁星般多的後裔
 and all of his descendants,
 
 396
 00:43:25,228 --> 00:43:28,152
-子孫後代
+所立的約
 as numerous as the stars.
 
 397
@@ -2124,7 +2124,7 @@ He makes me strong.
 
 426
 00:45:27,183 --> 00:45:29,402
-倘若我剪了頭發
+倘若我剪了頭髮
 If I cut my hair,
 
 427
@@ -2154,6 +2154,6 @@ and taken your strength with him.
 
 432
 00:45:47,078 --> 00:45:51,504
-不  他讓我徹底毀了你們
+不  他要我徹底毀了你們
 No. He wants me to destroy you all!
 

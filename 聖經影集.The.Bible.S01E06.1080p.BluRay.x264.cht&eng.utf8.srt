@@ -1,11 +1,11 @@
 1
 00:00:02,810 --> 00:00:09,870
-本劇改編自聖經故事  它們曾改變世界
+本劇改編自聖經  它們曾改變世界
 本劇將始終保持《聖經》真諦
 
 2
 00:00:13,388 --> 00:00:15,766
-《聖經故事》前情提要
+《聖經》前情提要
 Previously on The Bible.
 
 3
@@ -15,7 +15,7 @@ Jerusalem, our new home.
 
 4
 00:00:20,854 --> 00:00:23,277
-猶太人民，偽造了一個王國
+猶太人民，打造了一個王國
 The Jewish people have forged a kingdom...
 
 5
@@ -25,7 +25,7 @@ in the promised land.
 
 6
 00:00:26,401 --> 00:00:29,951
-但是他們的生存一直不斷的斗爭
+但是他們一直不斷的為的生存戰鬥
 But their survival has been a constant struggle.
 
 7
@@ -90,8 +90,8 @@ a messiah.
 
 19
 00:01:35,718 --> 00:01:38,718
-《聖經故事》
-第一季  第06集
+《聖經》
+第06集-盼望
 
 20
 00:01:45,272 --> 00:01:47,775
@@ -150,7 +150,7 @@ Bring them!
 
 31
 00:03:23,704 --> 00:03:26,958
-老鷹是由猶大人的國王
+老鷹是由猶大人的王
 The eagle was put on the temple by the king of the Jews,
 
 32
@@ -205,7 +205,7 @@ who think I am not clean enough or pure enough...
 
 42
 00:04:05,829 --> 00:04:09,675
-不夠純正的叛徒們
+不夠純正的叛徒
 or Jewish enough for your holy temple!
 
 43
@@ -295,7 +295,7 @@ and the sweetest smile.
 
 60
 00:06:36,980 --> 00:06:39,153
-以希律王和羅馬之名
+奉希律王和羅馬之名
 In the name of Herod and Rome...
 
 61
@@ -420,7 +420,7 @@ Don't be afraid.
 
 85
 00:08:41,980 --> 00:08:43,982
-我是上帝的仆人
+我是上帝的僕人
 I am the Lord's servant.
 
 86
@@ -445,7 +445,7 @@ Mary!
 
 90
 00:09:17,390 --> 00:09:20,735
-告訴我發生了什麼  馬利亞  求你  不能在這  不能在這
+告訴我發生了什麼  馬利亞  求你  不能在這說  不能在這說
 Tell me what's going on, Mary, please! Not here, not here.
 
 91
@@ -625,7 +625,7 @@ Mary?
 
 126
 00:12:47,058 --> 00:12:49,026
-准備好了嗎
+準備好了嗎
 You ready?
 
 127
@@ -770,17 +770,17 @@ Wine?
 
 155
 00:15:46,779 --> 00:15:48,497
-您真是仁慈  陛下
+謝謝您的款待  陛下
 You're very gracious, Your Majesty.
 
 156
 00:15:48,573 --> 00:15:51,452
-我寧願不是如此
+我就不用了
 I'd rather not.
 
 157
 00:15:51,534 --> 00:15:54,413
-我很好奇  您對新王都了解些什麼
+我很好奇  對那將來的新王您知道些什麼
 I wonder, what can you tell me of the new king?
 
 158
@@ -875,7 +875,7 @@ We follow the star.
 
 176
 00:17:20,414 --> 00:17:23,338
-那個大逆不道的預言出現在哪兒
+那個大逆不道的預言會在哪裡應驗
 Where is this treacherous prophecy?
 
 177
@@ -949,7 +949,7 @@ Sir, we need help!
 
 191
 00:18:19,307 --> 00:18:22,526
-"和平的君"  它會在這裡是幹的
+"和平的君"  這裡會是乾的
 - Prince of Peace. - It'll be dry in here.
 
 192
@@ -1300,11 +1300,11 @@ At the River Jordan,
 261
 00:29:22,135 --> 00:29:24,763
 人們絡繹不絕地來找施洗約翰
-crowds ?ock to John the Baptist.
+crowds flocking to John the Baptist.
 
 262
 00:29:24,846 --> 00:29:28,566
-我為你們施洗  准備迎接新的國度吧
+我為你們施洗  準備迎接新的國度吧
 I baptise you, ready for the new kingdom.
 
 263
@@ -1325,7 +1325,7 @@ Are you the messiah?
 
 266
 00:29:40,153 --> 00:29:43,373
-在這裡  我在等  阻止她
+在這裡  我在等  在那等  
 - Here. I'm waiting. - Keep back here.
 
 267
@@ -1336,7 +1336,7 @@ You said there was trouble.
 268
 00:30:12,394 --> 00:30:16,615
 -在沙漠地帶   人們都成群結隊去找那個野人似的約翰
-In the desert, the people are ?ocking to this wild man- John.
+In the desert, the people are flocking to this wild man- John.
 
 269
 00:30:16,690 --> 00:30:19,113
@@ -1371,7 +1371,7 @@ will be cut down and thrown into the fire.
 275
 00:30:44,551 --> 00:30:47,851
 所有人都將見證神的救贖
-All ?esh shall see the salvation of God!
+All flesh shall see the salvation of God!
 
 276
 00:30:47,929 --> 00:30:50,023
@@ -1410,22 +1410,22 @@ I am just a voice in the wilderness,
 
 283
 00:31:38,522 --> 00:31:40,524
-做好准備  迎接...
+做好準備  迎接...
 preparing the way for the...
 
 284
 00:31:50,325 --> 00:31:51,827
-上帝
+主
 Lord.
 
 285
 00:31:58,041 --> 00:31:59,544
-繼續
+別停
 Don't stop.
 
 286
 00:32:01,920 --> 00:32:04,173
-我應該受你的洗啊
+我理該當受你的洗啊
 Surely I need you to baptise me.
 
 287
@@ -1440,7 +1440,7 @@ Baptise me.
 
 289
 00:33:15,577 --> 00:33:19,252
-受洗後  耶穌進入曠野
+受洗後  耶穌被聖靈帶進入曠野
 After his baptism, Jesus enters the wilderness.
 
 290
@@ -1450,7 +1450,7 @@ For 40 days, his spirit is tested,
 
 291
 00:33:26,963 --> 00:33:29,466
-為他之後將要面臨的挑戰做准備
+為他之後將要面臨的挑戰做準備
 preparing him for the challenges to come.
 
 292
@@ -1510,7 +1510,7 @@ If you will bow down and worship me,
 
 303
 00:35:58,990 --> 00:36:02,745
-我就把全世界都贈予你
+我就把全世界都給你
 I will give you the whole world.
 
 304
@@ -1540,7 +1540,7 @@ Jesus resists Satan's temptations...
 
 309
 00:37:15,775 --> 00:37:17,823
-並准備開始完成他的使命
+並準備開始完成他的使命
 and prepares to begin his mission.
 
 310
@@ -1550,7 +1550,7 @@ But it will be without John the Baptist.
 
 311
 00:37:22,115 --> 00:37:25,164
-他被安提帕抓
+他已經被安提帕逮捕了
 He has been arrested by Antipas.
 
 312
@@ -1606,7 +1606,7 @@ You can't just climb into my boat!
 
 323
 00:40:03,276 --> 00:40:06,655
-沒錯  你說得對  請助我一臂之力吧
+沒錯  你說得對  助我一臂之力吧
 Yeah, you're right. Give me a helping hand.
 
 324
@@ -1636,7 +1636,7 @@ Peter.
 
 329
 00:40:38,937 --> 00:40:41,781
-給我一小時的時間
+給我一小時
 Just give me an hour,
 
 330
@@ -1796,7 +1796,7 @@ All People!
 
 361
 00:44:55,026 --> 00:44:57,074
-下集《聖經故事》預告
+下集《聖經》預告
 Next time on The Bible.
 
 362
@@ -1836,7 +1836,7 @@ He works miracles.
 
 369
 00:45:15,296 --> 00:45:17,594
-都這麼吹
+大家都這麼說
 They all do.
 
 370
@@ -1896,7 +1896,7 @@ Soon we go to Jerusalem.
 
 381
 00:45:57,338 --> 00:45:58,965
-也太危險
+那太危險了！
 It's too dangerous.
 
 382
@@ -1966,12 +1966,12 @@ to disrupt Passover.
 
 395
 00:46:41,048 --> 00:46:44,018
-倘若你渴望公義
+倘若你們渴望看見公義
 If you hunger for righteousness,
 
 396
 00:46:44,093 --> 00:46:48,143
-你將通過我感受到
+你們將透過我看見
 you will be filled... through me.
 
 397

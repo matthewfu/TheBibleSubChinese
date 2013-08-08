@@ -90,7 +90,7 @@ Roman scum! Roman thieves!
 
 20
 00:00:53,010 --> 00:00:55,080
-數百人正要去見彼拉多長官
+數百人正要去見彼拉多總督
 Hundreds are heading to see the Prefect Pilate.
 
 21
@@ -175,7 +175,7 @@ Jesus has cast out demons,
 
 37
 00:01:49,170 --> 00:01:50,570
-妙手回春
+醫治有病的
 cured the sick...
 
 38
@@ -429,7 +429,7 @@ why don't you make us free?
 
 88
 00:05:57,980 --> 00:06:01,150
-主啊  拯救我們遠離羅馬人
+主啊  從羅馬人手中拯救我們
 Save us from the Romans, Lord.
 
 89
@@ -664,7 +664,7 @@ Jesus also returns,
 
 135
 00:10:26,330 --> 00:10:29,290
-告誡更多的人
+他在更多的人面前講道
 to preach to ever larger crowds.
 
 136
@@ -674,17 +674,17 @@ It's much harder for a rich person
 
 137
 00:10:35,260 --> 00:10:37,600
-進入神的王國
+進入神的國
 to enter the kingdom of God,
 
 138
 00:10:37,690 --> 00:10:39,930
-駱駝穿過針的眼
+要一隻駱駝穿過針的眼
 than it is,
 
 139
 00:10:39,930 --> 00:10:42,900
-還要更容易些呢
+還要容易得多呢
 for a carmel to go through the eye of a needle.
 
 140
@@ -1208,7 +1208,7 @@ What do you want with him?
 
 244
 00:20:14,230 --> 00:20:15,760
-談談而已
+只是想跟他談談而已
 Just to talk.
 
 245
@@ -1613,7 +1613,7 @@ Trust in me also.
 
 325
 00:28:35,930 --> 00:28:38,950
-我要去的地方  你們知道怎麼走
+我要去的地方  你們知道怎麼去
 You know the way to where I'm going.
 
 326
@@ -1668,12 +1668,12 @@ This is my blood.
 
 336
 00:30:09,400 --> 00:30:10,860
-通過這樣
+如此行
 Remember me...
 
 337
 00:30:12,110 --> 00:30:13,750
-記住我
+來紀念我
 by doing this.
 
 338
@@ -1798,7 +1798,7 @@ Lead my servant to him.
 
 362
 00:34:34,280 --> 00:34:37,340
-客西馬尼花園
+客西馬尼園
 
 363
 00:34:55,150 --> 00:34:56,280
@@ -1812,7 +1812,7 @@ And keep awake.
 
 365
 00:34:59,280 --> 00:35:00,760
-時辰已到
+時候到了
 The time has come.
 
 366
@@ -1852,12 +1852,12 @@ as you will it.
 
 373
 00:35:48,030 --> 00:35:51,600
-父啊  帶走我的靈魂吧
+父啊  把這杯挪去
 Father, take this from me.
 
 374
 00:35:52,540 --> 00:35:53,800
-寬恕我
+饒了我
 Spare me.
 
 375
@@ -1892,12 +1892,12 @@ Praise the Lord.
 
 381
 00:36:20,580 --> 00:36:22,930
-以色列之神
+以色列的神
 God of Israel.
 
 382
 00:36:24,230 --> 00:36:27,670
-永生不死
+永活至高者
 Everlasting and everlasting.
 
 383
@@ -2087,7 +2087,7 @@ may not be held on the eve of Sabbath...
 
 420
 00:40:43,640 --> 00:40:46,230
-或是其他宗教節日前夜進行"
+或是其他節日前夜進行"
 or on the eve of a feast day."
 
 421
@@ -2107,7 +2107,7 @@ But the trial is tonight.
 
 424
 00:42:15,820 --> 00:42:17,180
-你不能這麼幹
+你不能這麼做
 You cannot go through with this.
 
 425
@@ -2307,7 +2307,7 @@ They don't want any protests.
 
 464
 00:45:22,130 --> 00:45:28,000
-他利用魔鬼的力量去治愈疾病
+他利用魔鬼的能力去治愈疾病
 He has employed demons... to heal.
 
 465
@@ -2322,7 +2322,7 @@ to destroy the temple of our Lord.
 
 467
 00:45:40,000 --> 00:45:42,130
-同胞們  在審判之前
+弟兄們  在我們審判之前
 Brothers, we must listen...
 
 468
@@ -2367,7 +2367,7 @@ Are you... the Chosen One?
 
 476
 00:46:27,050 --> 00:46:29,230
-你是不是神子
+你是不是神的兒子
 Are you the Son of God?
 
 477
@@ -2422,7 +2422,7 @@ Guilty?
 
 487
 00:47:24,840 --> 00:47:26,160
-這是不對的
+這樣是不對的
 This is wrong.
 
 488
@@ -2437,7 +2437,7 @@ Does it not?
 
 490
 00:47:32,940 --> 00:47:34,100
-同胞們
+弟兄們
 Brothers.
 
 491
@@ -2452,7 +2452,7 @@ Next time on The Bible.
 
 493
 00:47:51,200 --> 00:47:54,170
-長官  我們需要您的幫助
+總督大人  我們需要您的幫助
 Prefect, we need your help.
 
 494
